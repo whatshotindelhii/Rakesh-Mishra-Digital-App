@@ -1,0 +1,38 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Obsidian & Champagne Executive Palette (Dark)
+val ObsidianBg = Color(0xFF0C0E13)
+val ObsidianSurface = Color(0xFF141720)
+val ObsidianSurfaceHigh = Color(0xFF1D222E)
+val ObsidianSurfaceHighest = Color(0xFF272D3C)
+val ChampagneGold = Color(0xFFE5C17A)
+val ChampagneGoldMuted = Color(0xFFB69452)
+val DeepBronzeInk = Color(0xFF281D06)
+val AmberContainer = Color(0xFF3E3014)
+val AmberContainerText = Color(0xFFFBE1AC)
+val TealAccent = Color(0xFF56C2B8)
+val TealContainer = Color(0xFF133835)
+val TealContainerText = Color(0xFFB7F0EA)
+val IvoryText = Color(0xFFF3EFE6)
+val SlateMutedText = Color(0xFFA7AFBF)
+val SubtleOutlineDark = Color(0xFF333A4A)
+
+// Warm Editorial Ivory Palette (Light)
+val IvoryBg = Color(0xFFFAF7F0)
+val IvorySurface = Color(0xFFFFFFFF)
+val IvorySurfaceLow = Color(0xFFF3EFE6)
+val IvorySurfaceHigh = Color(0xFFEAE3D5)
+val BronzePrimary = Color(0xFF8C6416)
+val BronzeContainer = Color(0xFFF7E4B8)
+val BronzeContainerText = Color(0xFF2C1E02)
+val DeepTeal = Color(0xFF1D6B65)
+val DeepTealContainer = Color(0xFFCDEEE9)
+val DeepTealContainerText = Color(0xFF082624)
+val CharcoalInk = Color(0xFF181A20)
+val WarmGrayInk = Color(0xFF595E6B)
+val SubtleOutlineLight = Color(0xFFD9D1C3)
+
+val ErrorCoral = Color(0xFFE56B6F)
+val ErrorCoralContainer = Color(0xFF44191D)
